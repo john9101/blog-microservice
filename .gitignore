@@ -5,5 +5,9 @@ comment-service/node_modules
 comment-service/node_modules/
 post-service/node_modules
 post-service/node_modules/
+query-service/node_modules
+query-service/node_modules/
+event-bus/node_modules
+event-bus/node_modules/
 client/node_modules
 client/node_modules/
