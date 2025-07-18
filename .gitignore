@@ -1,0 +1,9 @@
+.idea
+.idea/
+
+comment-service/node_modules
+comment-service/node_modules/
+post-service/node_modules
+post-service/node_modules/
+client/node_modules
+client/node_modules/
